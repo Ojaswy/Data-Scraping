@@ -4,6 +4,7 @@ import sys
 
 import requests
 
+#Enter the string as a command-line argument
 search_term = sys.argv[1]
 
 url = 'https://api.spotify.com/v1/search?type=album&q=' + search_term
