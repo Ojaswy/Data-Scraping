@@ -1,4 +1,4 @@
-# This script finds all headlines on the BBC News homepage that match a given
+# This script finds all headlines on the BBC News homepage that match a given string
 
 import sys
 
