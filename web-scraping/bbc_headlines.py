@@ -5,6 +5,7 @@ import sys
 import bs4
 import requests
 
+#Enter the string as a command-line argument
 search_term = sys.argv[1]
 
 rsp = requests.get('http://www.bbc.co.uk/news')
