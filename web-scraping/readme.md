@@ -8,5 +8,9 @@
 
 2. bbc_headlines.py - *This script finds all headlines on the BBC News homepage that match a given string.*
 
-3. stackoverflow_search.py - *# This script searches for a term on StackOverflow and shows the title of the first result .*
+3. stackoverflow_search.py - *This script searches for a term on StackOverflow and shows the title of the first result.*
+
+4. github_repo_count.py - *# This script tells you how many public repositories you have on GitHub, and
+# then uses your password to log in and find out how many repositories you have
+# in total.*
 
