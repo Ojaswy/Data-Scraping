@@ -8,7 +8,7 @@ import sys
 import bs4
 import requests
 
-
+#Enter the string as a command-line argument
 username = sys.argv[1]
 password = getpass('Please enter your GitHub password')
 
