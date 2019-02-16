@@ -12,4 +12,5 @@
 
 4. github_repo_count.py - *This script tells you how many public repositories you have on GitHub, and then uses your password to log in and                            find out how many repositories you have in total.*
 
+5. postcode_to_latlng.py - *# This script uses the Google Maps Geocoding API to find the latitude and longitude of a given address.*
  
