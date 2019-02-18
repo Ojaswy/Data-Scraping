@@ -1,6 +1,6 @@
 # This script searches Spotify for albums matching a given search term. 
 
-import sys
+import sys 
 
 import requests
 
