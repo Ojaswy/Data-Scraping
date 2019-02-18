@@ -5,7 +5,7 @@ from getpass import getpass
 import sys
  
 import bs4
-import requests
+import requests 
 
 #Enter the string as a command-line argument
 username = sys.argv[1]
