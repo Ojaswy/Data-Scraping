@@ -20,3 +20,4 @@ for h3 in doc.find_all('h3'):
         num_found += 1
 
 print('Found {} headline(s) matching "{}"'.format(num_found, search_term))
+ 
