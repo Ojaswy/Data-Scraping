@@ -1,6 +1,6 @@
 # This script tells you how many public repositories you have on GitHub, and then,
 # uses your password to log in and find out how many repositories you have in total.
- 
+  
 from getpass import getpass 
 import sys 
  
