@@ -1,10 +1,12 @@
-# This script searches for a term on StackOverflow and shows the title of the first result. 
+# This script searches for a term on StackOverflow and shows the title of the
+# first result .
 
 import sys
+
 import bs4
 import requests
 
-#Enter the string as a command-line argument
+
 search_term = sys.argv[1]
 
 rsp = requests.get('http://stackoverflow.com/search?q=' + search_term)
