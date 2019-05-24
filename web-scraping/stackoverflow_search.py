@@ -2,7 +2,6 @@
 # first result .
 
 import sys
-
 import bs4
 import requests
 
