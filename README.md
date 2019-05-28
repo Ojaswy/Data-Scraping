@@ -5,3 +5,4 @@ Data scraping, also known as web scraping, is the process of importing informati
 
 You can read more about its applications [here](https://www.targetinternet.com/what-is-data-scraping-and-how-can-you-use-it/).
  
+ 
