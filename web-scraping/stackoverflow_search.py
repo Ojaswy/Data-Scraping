@@ -1,6 +1,6 @@
 # This script searches for a term on StackOverflow and shows the title of the
 # first result .
-
+ 
 import sys
 import bs4
 import requests
