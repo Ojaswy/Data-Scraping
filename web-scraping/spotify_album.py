@@ -1,4 +1,4 @@
-# This script searches Spotify for albums matching a given search term. 
+# This script searches Spotify for albums matching a given search term.  
 
 import sys 
 
